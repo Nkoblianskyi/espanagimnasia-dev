@@ -13,15 +13,15 @@ const footerNav = [
     title: 'Contenido',
     links: [
       { href: '/blog', label: 'Blog' },
-      { href: '/about', label: 'Sobre nosotros' },
-      { href: '/about', label: 'Contacto' },
+      { href: '/sobre-nosotros', label: 'Sobre nosotros' },
+      { href: '/contacto', label: 'Contacto' },
     ],
   },
   {
     title: 'Legal',
     links: [
-      { href: '/privacy-policy', label: 'Política de privacidad' },
-      { href: '/cookie-policy', label: 'Política de cookies' },
+      { href: '/politica-privacidad', label: 'Política de privacidad' },
+      { href: '/politica-cookies', label: 'Política de cookies' },
     ],
   },
 ]

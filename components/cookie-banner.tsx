@@ -40,7 +40,7 @@ export function CookieBanner() {
     >
       <p className="text-sm text-primary-foreground/80 leading-relaxed flex-1">
         Utilizamos cookies para mejorar su experiencia de navegación.{' '}
-        <Link href="/cookie-policy" className="underline underline-offset-2 text-primary-foreground hover:text-primary-foreground/80">
+        <Link href="/politica-cookies" className="underline underline-offset-2 text-primary-foreground hover:text-primary-foreground/80">
           Política de cookies
         </Link>
         .

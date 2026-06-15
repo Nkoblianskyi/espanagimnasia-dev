@@ -30,8 +30,17 @@ export default function ContactPage() {
           </div>
         </section>
 
+        {/* Intro */}
+        <section className="max-w-3xl mx-auto px-6 pt-16 pb-4">
+          <p className="font-sans text-muted-foreground leading-relaxed text-lg">
+            ¿Tienes una consulta sobre gimnasia artística, rítmica o acrobática en
+            España? ¿Quieres proponer un tema para el blog o corregir algún dato?
+            Escríbenos y te responderemos lo antes posible.
+          </p>
+        </section>
+
         {/* Form */}
-        <section className="max-w-3xl mx-auto px-6 py-20">
+        <section className="max-w-3xl mx-auto px-6 pb-20">
           {sent ? (
             <div className="border border-border bg-card p-12 text-center">
               <p className="font-mono text-xs tracking-widest text-muted-foreground uppercase mb-4">

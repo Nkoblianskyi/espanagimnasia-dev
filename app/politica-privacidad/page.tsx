@@ -76,7 +76,7 @@ export default function PrivacyPage() {
             ))}
           </div>
           <p className="font-mono text-xs text-muted-foreground mt-16 pt-8 border-t border-border">
-            Última actualización: junio de 2026
+            Última actualización: 2026
           </p>
         </section>
       </main>

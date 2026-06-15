@@ -11,7 +11,7 @@ const navLinks = [
   { href: '/reglas', label: 'Reglas' },
   { href: '/tecnica', label: 'Técnica' },
   { href: '/blog', label: 'Blog' },
-  { href: '/about', label: 'Contacto' },
+  { href: '/contacto', label: 'Contacto' },
 ]
 
 export function SiteHeader() {
